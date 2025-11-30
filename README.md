@@ -7,13 +7,10 @@
 
 ---
 
-## **1. Introduction**
+## ⭐ Overview
 
-Understanding healthcare quality is a critical priority for both government agencies and healthcare organizations. This project analyzes hospital performance across seven U.S. states—**California, Arizona, Colorado, Hawaii, Oregon, New Mexico, and Nevada**—using publicly available data from the Centers for Medicare & Medicaid Services (CMS).
-
-Rather than comparing hospitals directly (due to uneven distribution, especially a large concentration in California), this analysis focuses on **state-level trends**, **regional patterns**, and **system-wide themes**. The goal is to provide insights that support public health decision-making, identify improvement opportunities, and highlight meaningful differences across states.
-
-This narrative walks through the project from end to end: the problem, the analytical goals, the data pipeline, the methods used, and the key takeaways:
+This project analyzes hospital patient experience survey data across **7 U.S. states**  
+**(AL, AR, AK, AZ, CT, CO, CA)** covering the period:
 
 📅 **July 2017 – June 2018**  
 🏥 **695 hospitals**  
@@ -90,6 +87,8 @@ Below is the structure for your visuals, each with a caption and explanation —
 **Purpose:** Understand which states have the highest % of reliable survey records.
 
 ➡ Reveals blind spots in survey participation and data completeness.
+
+
 
 **Key takeaway:**  
 *Example placeholder — you’ll replace with your actual insight:*  
