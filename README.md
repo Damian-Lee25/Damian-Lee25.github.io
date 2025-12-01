@@ -91,7 +91,7 @@ Below is the structure for your visuals, each with a caption and explanation —
 
 
 **Key takeaway:**  
-*Example placeholder — you’ll replace with your actual insight:*  
+![Data Reliability Charts](state_insights.png)  
 States like **CT and CO** show the strongest reliability, while **AK** has notable reliability gaps due to small sample sizes.
 
 ---
